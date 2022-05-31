@@ -96,6 +96,9 @@ I'm I, Japanese Virtual C++ Programmer / IさんはC++が好きなインター�
 </td><td>
 
 - Cross-language benchmark for [QOI](https://github.com/phoboslab/qoi) implementations
+    - [Reference (`phoboslab/qoi`)](https://github.com/phoboslab/qoi)
+    - [`wx257osn2/qoixx`](https://github.com/wx257osn2/qoixx)
+    - [`aldanor/qoi-rust`](https://github.com/aldanor/qoi-rust)
 
 </td></tr>
 <tr><td align=center>
