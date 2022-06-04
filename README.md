@@ -99,6 +99,7 @@ I'm I, Japanese Virtual C++ Programmer / IさんはC++が好きなインター�
     - [Reference (`phoboslab/qoi`)](https://github.com/phoboslab/qoi)
     - [`wx257osn2/qoixx`](https://github.com/wx257osn2/qoixx)
     - [`aldanor/qoi-rust`](https://github.com/aldanor/qoi-rust)
+    - [`zakarumych/rapid-qoi`](https://github.com/zakarumych/rapid-qoi)
 
 </td></tr>
 <tr><td align=center>
