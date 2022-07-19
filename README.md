@@ -134,12 +134,16 @@ I'm I, Japanese Virtual C++ Programmer / IさんはC++が好きなインター�
 </td></tr>
 </table>
 
-## Contributions
+## Major Contributions
 
 - [`cpprefjp/site`](https://github.com/cpprefjp/site) : [PRs](https://github.com/cpprefjp/site/pulls?q=is%3Apr+author%3Awx257osn2)
     - misc fixes
     - add description
     - add example
+    - [advice about code simplification](https://github.com/cpprefjp/site/commit/9f5298a509928a0beb752759be6fd1f50fa07325)
+- [`facebookresearch/faiss`](https://github.com/facebookresearch/faiss) : [PRs](https://github.com/facebookresearch/faiss/pulls?q=is%3Apr+author%3Awx257osn2)
+    - [fix typo and bump up version forgotten to update](https://github.com/facebookresearch/faiss/pull/2384)
+    - [fix to conform C++11 and test the architecture specific code correctly](https://github.com/facebookresearch/faiss/pull/2388)
 - [`poacpm/poac`](https://github.com/poacpm/poac) : [PRs](https://github.com/poacpm/poac/pulls?q=is%3Apr+author%3Awx257osn2)
     - fix CI
 - [`reki2000/langs-bench-dijkstra`](https://github.com/reki2000/langs-bench-dijkstra) : [PRs](https://github.com/reki2000/langs-bench-dijkstra/pulls?q=is%3Apr+author%3Awx257osn2)
