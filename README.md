@@ -6,7 +6,7 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
 [![Zenn](https://zenn.badge.nikaera.com/s/wx257osn2/articles?style=flat)](https://zenn.dev/wx257osn2/articles)
 [![Qiita](https://qiita-badge.apiapi.app/s/wx257osn2/posts.svg)](http://qiita.com/wx257osn2)
 
-## Repositories
+## Major Repositories
 
 ### Libraries
 
