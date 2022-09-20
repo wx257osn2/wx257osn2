@@ -148,7 +148,7 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - add NEON implementations([#2390](https://github.com/facebookresearch/faiss/pull/2390), [#2392](https://github.com/facebookresearch/faiss/pull/2392), [#2447](https://github.com/facebookresearch/faiss/pull/2447))
     - [update document](https://github.com/facebookresearch/faiss/pull/2391)
     - [fix simdlib, the 128x2bit-SIMD abstraction layer internally used on faiss](https://github.com/facebookresearch/faiss/pull/2448)
-    - help some peoples([#2386](https://github.com/facebookresearch/faiss/issues/2386), [#2463](https://github.com/facebookresearch/faiss/issues/2463), [#2465](https://github.com/facebookresearch/faiss/issues/2465))
+    - help some people([#2386](https://github.com/facebookresearch/faiss/issues/2386), [#2463](https://github.com/facebookresearch/faiss/issues/2463), [#2465](https://github.com/facebookresearch/faiss/issues/2465))
 - [`poacpm/poac`](https://github.com/poacpm/poac)
     - update document([#81](https://github.com/poacpm/poac/pull/81), [#100](https://github.com/poacpm/poac/pull/100))
     - fix build/CI([#108](https://github.com/poacpm/poac/pull/108), [#109](https://github.com/poacpm/poac/pull/109), [#112](https://github.com/poacpm/poac/pull/112), [#377](https://github.com/poacpm/poac/pull/377))
