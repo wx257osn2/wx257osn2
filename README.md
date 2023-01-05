@@ -137,11 +137,12 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
 ## Major Contributions
 
 - [`cpprefjp/site`](https://github.com/cpprefjp/site)
-    - misc fixes([#261](https://github.com/cpprefjp/site/pull/261), [#372](https://github.com/cpprefjp/site/pull/372), [#760](https://github.com/cpprefjp/site/pull/760), [#787](https://github.com/cpprefjp/site/pull/787), [#808](https://github.com/cpprefjp/site/pull/808), [#817](https://github.com/cpprefjp/site/pull/817), [#835](https://github.com/cpprefjp/site/pull/835), [#942](https://github.com/cpprefjp/site/pull/942), [#951](https://github.com/cpprefjp/site/pull/951))
+    - misc fixes([#261](https://github.com/cpprefjp/site/pull/261), [#372](https://github.com/cpprefjp/site/pull/372), [#760](https://github.com/cpprefjp/site/pull/760), [#787](https://github.com/cpprefjp/site/pull/787), [#808](https://github.com/cpprefjp/site/pull/808), [#817](https://github.com/cpprefjp/site/pull/817), [#835](https://github.com/cpprefjp/site/pull/835), [#942](https://github.com/cpprefjp/site/pull/942), [#951](https://github.com/cpprefjp/site/pull/951), [`7662dc08`](https://github.com/cpprefjp/site/commit/7662dc08c7815036120a9346a914faf43b6e6a48), [#1015](https://github.com/cpprefjp/site/pull/1015))
     - [fix typo and add description about type param `Args`](https://github.com/cpprefjp/site/pull/821)
     - [add description about `[associative.reqmts]`](https://github.com/cpprefjp/site/pull/953)
     - [add example of `std::has_virtual_destructor`](https://github.com/cpprefjp/site/pull/969)
     - [advice about code simplification](https://github.com/cpprefjp/site/commit/9f5298a509928a0beb752759be6fd1f50fa07325)
+    - [add descriptions about relaxing constraints on constexpr in C++14](https://github.com/cpprefjp/site/pull/1016)
 - [`facebookresearch/faiss`](https://github.com/facebookresearch/faiss)
     - [fix typo and bump up version forgotten to update](https://github.com/facebookresearch/faiss/pull/2384)
     - [fix to conform C++11 and test the architecture specific code correctly](https://github.com/facebookresearch/faiss/pull/2388)
