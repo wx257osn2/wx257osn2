@@ -143,12 +143,14 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - [add example of `std::has_virtual_destructor`](https://github.com/cpprefjp/site/pull/969)
     - [advice about code simplification](https://github.com/cpprefjp/site/commit/9f5298a509928a0beb752759be6fd1f50fa07325)
     - [add descriptions about relaxing constraints on constexpr in C++14](https://github.com/cpprefjp/site/pull/1016)
+    - [correct a description about literal type](https://github.com/cpprefjp/site/pull/1017)
 - [`facebookresearch/faiss`](https://github.com/facebookresearch/faiss)
     - [fix typo and bump up version forgotten to update](https://github.com/facebookresearch/faiss/pull/2384)
     - [fix to conform C++11 and test the architecture specific code correctly](https://github.com/facebookresearch/faiss/pull/2388)
     - add NEON implementations([#2390](https://github.com/facebookresearch/faiss/pull/2390), [#2392](https://github.com/facebookresearch/faiss/pull/2392), [#2447](https://github.com/facebookresearch/faiss/pull/2447))
     - [update document](https://github.com/facebookresearch/faiss/pull/2391)
     - [fix simdlib, the 128x2bit-SIMD abstraction layer internally used on faiss](https://github.com/facebookresearch/faiss/pull/2448)
+    - fix CI([#2442](https://github.com/facebookresearch/faiss/pull/2442), [#2779](https://github.com/facebookresearch/faiss/pull/2779))
     - help some people([#2386](https://github.com/facebookresearch/faiss/issues/2386), [#2463](https://github.com/facebookresearch/faiss/issues/2463), [#2465](https://github.com/facebookresearch/faiss/issues/2465))
 - [`poacpm/poac`](https://github.com/poacpm/poac)
     - update document([#81](https://github.com/poacpm/poac/pull/81), [#100](https://github.com/poacpm/poac/pull/100))
@@ -192,3 +194,10 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
 - [`Siv3D/OpenQuestion1`](https://github.com/Siv3D/OpenQuestion1)
     - [propose fast implementation](https://github.com/Siv3D/OpenQuestion1/issues/2)
         - [finally it doesn't be adopted](https://twitter.com/Reputeless/status/920217005076119552)
+- Others
+    - provide the implementation to investigate the cause of a report that qoixx, my implementation, is slow
+        - [qoixx, one of the fastest implementation](https://github.com/wx257osn2/qoixx) (by me)
+        - [the report](https://github.com/ShadowMitia/libqoi/issues/1#issuecomment-1252041510) (by awesomebytes)
+        - **[the implementation to investigate the problem](https://github.com/wx257osn2/ros-perception-image_transport_plugins) (by me)**
+        - [the result of the investigation](https://github.com/awesomebytes/image_transport_qoi_playground) (by awesomebytes)
+            - finally, it has been concluded that qoixx is not slow
