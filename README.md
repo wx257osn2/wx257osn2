@@ -2,8 +2,9 @@
 
 I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインターネットパーソナリティです
 
+[![Bluesky](https://img.shields.io/badge/Bluesky-%20 -blue?style=flat&color=007dfe)](https://bsky.app/profile/wx257osn2.bsky.social)
 [![Twitter](https://img.shields.io/twitter/follow/wx257osn2?color=%2300ACEE&label=Twitter&logo=twitter&style=flat)](https://twitter.com/wx257osn2)
-[![Zenn](https://zenn.badge.nikaera.com/s/wx257osn2/articles?style=flat)](https://zenn.dev/wx257osn2/articles)
+[![Zenn](https://badgen.org/img/zenn/wx257osn2/articles?style=flat)](https://zenn.dev/wx257osn2/articles)
 [![Qiita](https://qiita-badge.apiapi.app/s/wx257osn2/posts.svg)](http://qiita.com/wx257osn2)
 
 ## Major Repositories
