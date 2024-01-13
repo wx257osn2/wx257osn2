@@ -101,6 +101,7 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - [`wx257osn2/qoixx`](https://github.com/wx257osn2/qoixx)
     - [`aldanor/qoi-rust`](https://github.com/aldanor/qoi-rust)
     - [`zakarumych/rapid-qoi`](https://github.com/zakarumych/rapid-qoi)
+    - [`pfusik/qoi-fu`](https://github.com/pfusik/qoi-fu)
 
 </td></tr>
 <tr><td align=center>
@@ -193,6 +194,8 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - [report issue about incorrect outputs](https://github.com/zakarumych/rapid-qoi/issues/6)
     - [update document](https://github.com/zakarumych/rapid-qoi/pull/5)
     - [fix typo, apply clippy](https://github.com/zakarumych/rapid-qoi/pull/7)
+- [`pfusik/qoi-fu`](https://github.com/pfusik/qoi-fu)
+    - [report issue about incorrect outputs](https://github.com/pfusik/qoi-fu/issues/13)
 - [`hayamdk/ryzen_segv_test`](https://github.com/hayamdk/ryzen_segv_test)
     - [fix resource leak](https://github.com/hayamdk/ryzen_segv_test/pull/1)
 - [`KinoMyu/FastHCADecoder`](https://github.com/KinoMyu/FastHCADecoder)
