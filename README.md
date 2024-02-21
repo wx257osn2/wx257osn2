@@ -43,7 +43,7 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
 
 </td><td>
 
-- Single header readline library
+- Single header readline library for C++17
 
 </td></tr>
 <tr><td align=center>
@@ -54,6 +54,16 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
 
 - Single header high performance [QOI](https://github.com/phoboslab/qoi) implementation
     - Especially the encoder is one of the fastest implementation
+
+</td></tr>
+<tr><td align=center>
+
+[![wx257osn2/holiday_jp-cxx](https://gh-card.dev/repos/wx257osn2/holiday_jp-cxx.svg?fullname=)](https://github.com/wx257osn2/holiday_jp-cxx)
+
+</td><td>
+
+- Header-only library for getting information of Japanese hoildays
+    - C++ implementation of repositories on [holiday-jp](https://github.com/holiday-jp)
 
 </td></tr>
 <tr><td align=center>
@@ -139,14 +149,14 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
 ## Major Contributions
 
 - [`cpprefjp/site`](https://github.com/cpprefjp/site)
-    - misc fixes([#261](https://github.com/cpprefjp/site/pull/261), [#372](https://github.com/cpprefjp/site/pull/372), [#760](https://github.com/cpprefjp/site/pull/760), [#787](https://github.com/cpprefjp/site/pull/787), [#808](https://github.com/cpprefjp/site/pull/808), [#817](https://github.com/cpprefjp/site/pull/817), [#835](https://github.com/cpprefjp/site/pull/835), [#942](https://github.com/cpprefjp/site/pull/942), [#951](https://github.com/cpprefjp/site/pull/951), [`7662dc08`](https://github.com/cpprefjp/site/commit/7662dc08c7815036120a9346a914faf43b6e6a48), [#1015](https://github.com/cpprefjp/site/pull/1015), [`e3233e7d`](https://github.com/cpprefjp/site/commit/e3233e7dbb6729db10d737119c4a480238d0ae5f))
+    - misc fixes([#261](https://github.com/cpprefjp/site/pull/261), [#372](https://github.com/cpprefjp/site/pull/372), [#760](https://github.com/cpprefjp/site/pull/760), [#787](https://github.com/cpprefjp/site/pull/787), [#808](https://github.com/cpprefjp/site/pull/808), [#817](https://github.com/cpprefjp/site/pull/817), [#835](https://github.com/cpprefjp/site/pull/835), [#942](https://github.com/cpprefjp/site/pull/942), [#951](https://github.com/cpprefjp/site/pull/951), [`7662dc08`](https://github.com/cpprefjp/site/commit/7662dc08c7815036120a9346a914faf43b6e6a48), [#1015](https://github.com/cpprefjp/site/pull/1015), [`e3233e7d`](https://github.com/cpprefjp/site/commit/e3233e7dbb6729db10d737119c4a480238d0ae5f), [`1d666c61`](https://github.com/cpprefjp/site/commit/1d666c610ffc9418a8f2b397b11e613ccfa6ca84), [`e92dbda8`](https://github.com/cpprefjp/site/commit/e92dbda8d6943d59800e65802678279cbec5ee7d), [`c0e60600`](https://github.com/cpprefjp/site/commit/c0e60600cf7f49f89512999e5cf3aa13dcff1747), [`663009ed`](https://github.com/cpprefjp/site/commit/663009edf7ef89aacce6d49fdbe7f71cd9705ab1), [`52813130`](https://github.com/cpprefjp/site/commit/528131302fef3ee398244e5900cca0498df28064), [`1117ef22`](https://github.com/cpprefjp/site/commit/1117ef22bd6ecdc03a66d7831f77ac7f551ea580))
     - [fix typo and add description about type param `Args`](https://github.com/cpprefjp/site/pull/821)
     - [add description about `[associative.reqmts]`](https://github.com/cpprefjp/site/pull/953)
     - [add example of `std::has_virtual_destructor`](https://github.com/cpprefjp/site/pull/969)
     - [advice about code simplification](https://github.com/cpprefjp/site/commit/9f5298a509928a0beb752759be6fd1f50fa07325)
     - [add descriptions about relaxing constraints on constexpr in C++14](https://github.com/cpprefjp/site/pull/1016)
     - [correct a description about literal type](https://github.com/cpprefjp/site/pull/1017)
-    - [fix sample code](https://github.com/cpprefjp/site/commit/)
+    - [change description about deprecation of `std::allocator`](https://github.com/cpprefjp/site/pull/1251)
 - [`cpprefjp/kunai`](https://github.com/cpprefjp/kunai)
     - [fix font size of `<code>` tag on page title](https://github.com/cpprefjp/kunai/pull/139)
 - [`facebookresearch/faiss`](https://github.com/facebookresearch/faiss)
