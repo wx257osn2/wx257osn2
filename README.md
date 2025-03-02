@@ -102,6 +102,28 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
 </td></tr>
 <tr><td align=center>
 
+[![wx257osn2/cxx_environment](https://gh-card.dev/repos/wx257osn2/cxx_environment.svg?fullname=)](https://github.com/wx257osn2/cxx_environment)
+
+</td><td>
+
+- Modern C++ environment using [Singularity](https://github.com/sylabs/singularity)/[Apptainer](https://github.com/apptainer/apptainer)
+    - Define file (`.def`) and `Dockerfile` for the environment image
+    - Support scripts easy to use
+    - And you can use it on Github Actions!
+
+</td></tr>
+<tr><td align=center>
+
+[![wx257osn2/setup-apptainer](https://gh-card.dev/repos/wx257osn2/setup-apptainer.svg?fullname=)](https://github.com/wx257osn2/setup-apptainer)
+
+</td><td>
+
+- Apptainer for Github Actions
+    - Supports Arm64 Linux runner (`ubuntu-24.04-arm`)
+
+</td></tr>
+<tr><td align=center>
+
 [![wx257osn2/qoi-benchmark](https://gh-card.dev/repos/wx257osn2/qoi-benchmark.svg?fullname=)](https://github.com/wx257osn2/qoi-benchmark)
 
 </td><td>
@@ -112,6 +134,7 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - [`aldanor/qoi-rust`](https://github.com/aldanor/qoi-rust)
     - [`zakarumych/rapid-qoi`](https://github.com/zakarumych/rapid-qoi)
     - [`pfusik/qoi-fu`](https://github.com/pfusik/qoi-fu)
+    - [`mrizaln/qoipp`](https://github.com/mrizaln/qoipp)
 
 </td></tr>
 <tr><td align=center>
@@ -149,7 +172,7 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
 ## Major Contributions
 
 - [`cpprefjp/site`](https://github.com/cpprefjp/site)
-    - misc fixes([#261](https://github.com/cpprefjp/site/pull/261), [#372](https://github.com/cpprefjp/site/pull/372), [#760](https://github.com/cpprefjp/site/pull/760), [#787](https://github.com/cpprefjp/site/pull/787), [#808](https://github.com/cpprefjp/site/pull/808), [#817](https://github.com/cpprefjp/site/pull/817), [#835](https://github.com/cpprefjp/site/pull/835), [#942](https://github.com/cpprefjp/site/pull/942), [#951](https://github.com/cpprefjp/site/pull/951), [`7662dc08`](https://github.com/cpprefjp/site/commit/7662dc08c7815036120a9346a914faf43b6e6a48), [#1015](https://github.com/cpprefjp/site/pull/1015), [`e3233e7d`](https://github.com/cpprefjp/site/commit/e3233e7dbb6729db10d737119c4a480238d0ae5f), [`1d666c61`](https://github.com/cpprefjp/site/commit/1d666c610ffc9418a8f2b397b11e613ccfa6ca84), [`e92dbda8`](https://github.com/cpprefjp/site/commit/e92dbda8d6943d59800e65802678279cbec5ee7d), [`c0e60600`](https://github.com/cpprefjp/site/commit/c0e60600cf7f49f89512999e5cf3aa13dcff1747), [`663009ed`](https://github.com/cpprefjp/site/commit/663009edf7ef89aacce6d49fdbe7f71cd9705ab1), [`52813130`](https://github.com/cpprefjp/site/commit/528131302fef3ee398244e5900cca0498df28064), [`1117ef22`](https://github.com/cpprefjp/site/commit/1117ef22bd6ecdc03a66d7831f77ac7f551ea580))
+    - misc fixes([#261](https://github.com/cpprefjp/site/pull/261), [#372](https://github.com/cpprefjp/site/pull/372), [#760](https://github.com/cpprefjp/site/pull/760), [#787](https://github.com/cpprefjp/site/pull/787), [#808](https://github.com/cpprefjp/site/pull/808), [#817](https://github.com/cpprefjp/site/pull/817), [#835](https://github.com/cpprefjp/site/pull/835), [#942](https://github.com/cpprefjp/site/pull/942), [#951](https://github.com/cpprefjp/site/pull/951), [`7662dc08`](https://github.com/cpprefjp/site/commit/7662dc08c7815036120a9346a914faf43b6e6a48), [#1015](https://github.com/cpprefjp/site/pull/1015), [`e3233e7d`](https://github.com/cpprefjp/site/commit/e3233e7dbb6729db10d737119c4a480238d0ae5f), [`1d666c61`](https://github.com/cpprefjp/site/commit/1d666c610ffc9418a8f2b397b11e613ccfa6ca84), [`e92dbda8`](https://github.com/cpprefjp/site/commit/e92dbda8d6943d59800e65802678279cbec5ee7d), [`c0e60600`](https://github.com/cpprefjp/site/commit/c0e60600cf7f49f89512999e5cf3aa13dcff1747), [`663009ed`](https://github.com/cpprefjp/site/commit/663009edf7ef89aacce6d49fdbe7f71cd9705ab1), [`52813130`](https://github.com/cpprefjp/site/commit/528131302fef3ee398244e5900cca0498df28064), [`1117ef22`](https://github.com/cpprefjp/site/commit/1117ef22bd6ecdc03a66d7831f77ac7f551ea580), [`ce9c6a00`](https://github.com/cpprefjp/site/commit/ce9c6a00eac7366a389310f2418f295369daeda2), [`8cc238ce`](https://github.com/cpprefjp/site/commit/8cc238ce20e5136912f1e70f7e426d6cc8b669de), [`c809726d`](https://github.com/cpprefjp/site/commit/c809726d6506a611b014ef397799d03a8f7fe26b))
     - [fix typo and add description about type param `Args`](https://github.com/cpprefjp/site/pull/821)
     - [add description about `[associative.reqmts]`](https://github.com/cpprefjp/site/pull/953)
     - [add example of `std::has_virtual_destructor`](https://github.com/cpprefjp/site/pull/969)
@@ -157,6 +180,7 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - [add descriptions about relaxing constraints on constexpr in C++14](https://github.com/cpprefjp/site/pull/1016)
     - [correct a description about literal type](https://github.com/cpprefjp/site/pull/1017)
     - [change description about deprecation of `std::allocator`](https://github.com/cpprefjp/site/pull/1251)
+    - [add example and precondition about `std::future`](https://github.com/cpprefjp/site/commits?author=wx257osn2&since=2025-01-01&until=2025-02-01)
 - [`cpprefjp/kunai`](https://github.com/cpprefjp/kunai)
     - [fix font size of `<code>` tag on page title](https://github.com/cpprefjp/kunai/pull/139)
 - [`facebookresearch/faiss`](https://github.com/facebookresearch/faiss)
@@ -167,7 +191,7 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - fix simdlib, the 128x2bit-SIMD abstraction layer internally used on faiss([#2448](https://github.com/facebookresearch/faiss/pull/2448), [#2885](https://github.com/facebookresearch/faiss/pull/2885))
     - fix CI([#2442](https://github.com/facebookresearch/faiss/pull/2442), [#2889](https://github.com/facebookresearch/faiss/pull/2889))
     - help some people([#2386](https://github.com/facebookresearch/faiss/issues/2386), [#2463](https://github.com/facebookresearch/faiss/issues/2463), [#2465](https://github.com/facebookresearch/faiss/issues/2465))
-- [`poacpm/poac`](https://github.com/poacpm/poac)
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin)(renamed from [`poacpm/poac`](https://github.com/poacpm/poac))
     - update document([#81](https://github.com/poacpm/poac/pull/81), [#100](https://github.com/poacpm/poac/pull/100))
     - fix build/CI([#108](https://github.com/poacpm/poac/pull/108), [#109](https://github.com/poacpm/poac/pull/109), [#112](https://github.com/poacpm/poac/pull/112), [#377](https://github.com/poacpm/poac/pull/377))
     - [refactor regexp on `cmake`](https://github.com/poacpm/poac/pull/381)
@@ -177,6 +201,12 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - [add `poac clean` subcommand](https://github.com/poacpm/poac/pull/664)
     - [fix linker error](https://github.com/poac-dev/poac/pull/752)
     - [add conan v1 support](https://github.com/poac-dev/poac/pull/753)
+    - [support path dependencies](https://github.com/cabinpkg/cabin/pull/1048)
+    - [support cpplint 2.0](https://github.com/cabinpkg/cabin/pull/1049)
+    - [fix diagnostics](https://github.com/cabinpkg/cabin/pull/1050)
+- [`cordx56/rustowl`](https://github.com/cordx56/rustowl)
+    - [support Windows](https://github.com/cordx56/rustowl/pull/2)
+    - [clippy](https://github.com/cordx56/rustowl/pull/11)
 - [`reki2000/langs-bench-dijkstra`](https://github.com/reki2000/langs-bench-dijkstra)
     - refactor and improve performance of C++ implementation([#4](https://github.com/reki2000/langs-bench-dijkstra/pull/4), [#9](https://github.com/reki2000/langs-bench-dijkstra/pull/9), [#27](https://github.com/reki2000/langs-bench-dijkstra/pull/27))
     - [fix Rust dijkstra algorithm implementation](https://github.com/reki2000/langs-bench-dijkstra/pull/10)
@@ -210,6 +240,13 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - [fix resource leak](https://github.com/hayamdk/ryzen_segv_test/pull/1)
 - [`KinoMyu/FastHCADecoder`](https://github.com/KinoMyu/FastHCADecoder)
     - [fix and refactoring](https://github.com/KinoMyu/FastHCADecoder/pull/1)
+- [`faithandbrave/life_string_view`](https://github.com/faithandbrave/life_string_view)
+    - [fix format](https://github.com/faithandbrave/life_string_view/pull/4)
+    - [fix compare operator for C++ < 20](https://github.com/faithandbrave/life_string_view/pull/5)
+    - [reduce copy cost](https://github.com/faithandbrave/life_string_view/pull/6)
+    - [make it generic](https://github.com/faithandbrave/life_string_view/pull/7)
+- [`terry-u16/schale-inventory-management`](https://github.com/terry-u16/schale-inventory-management)
+    - [initial support for Secret Midnight Party](https://github.com/terry-u16/schale-inventory-management/pull/49)
 - [`EzoeRyou/cpp17book`](https://github.com/EzoeRyou/cpp17book)
     - fix typos([#140](https://github.com/EzoeRyou/cpp17book/pull/140), [#141](https://github.com/EzoeRyou/cpp17book/pull/141), [#142](https://github.com/EzoeRyou/cpp17book/pull/142))
 - [`cppmap/cppmap.docs`](https://github.com/cppmap/cppmap.docs)
