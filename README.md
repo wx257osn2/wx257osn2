@@ -191,7 +191,7 @@ I'm I, a Japanese Virtual C++ Programmer / IさんはC++が好きなインター
     - fix simdlib, the 128x2bit-SIMD abstraction layer internally used on faiss([#2448](https://github.com/facebookresearch/faiss/pull/2448), [#2885](https://github.com/facebookresearch/faiss/pull/2885))
     - fix CI([#2442](https://github.com/facebookresearch/faiss/pull/2442), [#2889](https://github.com/facebookresearch/faiss/pull/2889))
     - help some people([#2386](https://github.com/facebookresearch/faiss/issues/2386), [#2463](https://github.com/facebookresearch/faiss/issues/2463), [#2465](https://github.com/facebookresearch/faiss/issues/2465))
-- [cabinpkg/cabin](https://github.com/cabinpkg/cabin)(renamed from [`poacpm/poac`](https://github.com/poacpm/poac))
+- [`cabinpkg/cabin`](https://github.com/cabinpkg/cabin)(renamed from [`poacpm/poac`](https://github.com/poacpm/poac))
     - update document([#81](https://github.com/poacpm/poac/pull/81), [#100](https://github.com/poacpm/poac/pull/100))
     - fix build/CI([#108](https://github.com/poacpm/poac/pull/108), [#109](https://github.com/poacpm/poac/pull/109), [#112](https://github.com/poacpm/poac/pull/112), [#377](https://github.com/poacpm/poac/pull/377))
     - [refactor regexp on `cmake`](https://github.com/poacpm/poac/pull/381)
